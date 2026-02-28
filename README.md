@@ -8,6 +8,7 @@ A aplicação permite registrar receitas e despesas, calcular automaticamente o 
 
 Este projeto demonstra a aplicação prática de conceitos essenciais da programação e organização de código.
 
+
 🚀 Funcionalidades
 
 ✅ Cadastro de receitas e despesas
@@ -50,6 +51,7 @@ Boas práticas de estruturação de código
 
 O projeto foi desenvolvido sem utilização de frameworks ou bibliotecas externas, reforçando o domínio da base da linguagem.
 
+
 📂 Estrutura do Projeto
 
 FinanceControl/
@@ -58,11 +60,13 @@ FinanceControl/
 ├── style.css
 └── script.js
 
+
 🎯 Objetivo
 
 Este projeto faz parte da minha jornada como desenvolvedor júnior em formação, com o objetivo de consolidar conhecimentos fundamentais antes de avançar para tecnologias mais complexas.
 
 Meu foco é construir uma base sólida, aplicando lógica, organização e clareza no desenvolvimento de aplicações funcionais.
+
 
 👨‍💻 Desenvolvedor
 
@@ -70,8 +74,10 @@ Lucas Cardoso dos Santos
 Desenvolvedor Júnior em formação
 Estudante de Desenvolvimento de Sistemas
 
+
 📍 Mogi Guaçu – SP
 🚀 Apaixonado por tecnologia, aprendizado contínuo e construção de soluções práticas.
+
 
 📈 Próximas Melhorias
 
@@ -86,4 +92,5 @@ Dark/Light Mode
 Refatoração com arquitetura mais escalável
 
 💡 “Grandes sistemas são construídos a partir de fundamentos sólidos.”
+
 
